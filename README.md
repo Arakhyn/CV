@@ -18,6 +18,8 @@ Make sure you have the following dependencies installed:
 pip install opencv-python numpy mss tensorflow
 ```
 
+All images for training are from kaggle cards datasets
+
 ## Usage
 
 Run the main script to start real-time detection:
